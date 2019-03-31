@@ -1,6 +1,7 @@
 
 该脚本有过滤语料的作用
-This script if mainly for filtering the paralle corpora
+
+This Script is Mainly for Filtering the Paralle Corpora
 ---
 
 **过滤特征有：(Features)**
