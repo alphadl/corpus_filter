@@ -1,17 +1,18 @@
 
 该脚本有过滤语料的作用
+This script if mainly for filtering the paralle corpora
 ---
 
-**过滤特征有：**
+**过滤特征有：(Features)**
 
-1.双语句子长度比率
+1.双语句子长度比率(length ratio of src and tgt sentences)
 
-2.重复句子
+2.重复句子(repeated sentences)
 
-**目前支持的语种类：**
-- [x] 英文<-->中文
-- [x] 日文<-->中文
-- [x] 韩文<-->中文
+**目前支持的语种类：(Supported LANGs)**
+- [x] 英文EN<-->中文ZH
+- [x] 日文JP<-->中文ZH
+- [x] 韩文KR<-->中文ZH
 
 By Liam 
 9th/Aug/2018
