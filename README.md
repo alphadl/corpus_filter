@@ -15,5 +15,4 @@ This Script is Mainly for Filtering the Paralle Corpora
 - [x] 日文JP<-->中文ZH
 - [x] 韩文KR<-->中文ZH
 
-By Liam 
 9th/Aug/2018
